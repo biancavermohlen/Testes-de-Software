@@ -42,7 +42,6 @@
   </div>
 
   #### Vanusa Signorelli Morales
-  #### Taissa Katrine
  <div>
     <a href="https://github.com/vanusaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
   </div>
