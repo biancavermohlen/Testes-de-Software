@@ -1,4 +1,4 @@
-# Testes_de_Software - Gestão e qualidade de software
+# Testes de Software - Gestão e qualidade de software
 
 ## Descrição do projeto
   - Projeto de desenvolvimento de testes para a disciplina Gestão da Qualidade de Software da instituição Unisociesc Blumenau com a função de criar casos de teste refentes ao site  https://www.demoblaze.com/. Seu desenvolvimento foi feito durante chamadas de zoom entre as seis integrantes da equipe e orientado pelo professor Randerson Melville. O projeto foi concluído no período de três semanas e as integrantes ficaram satisfeitas com seu resultado.
